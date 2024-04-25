@@ -12,7 +12,6 @@ body {
 
 
 }
-}
 #content {
     overflow: auto;
 }
@@ -55,7 +54,7 @@ li {
  background-image: url(https://media.istockphoto.com/id/1384645623/vector/pastel-color-gradient-blur-background.jpg?s=612x612&w=0&k=20&c=sHGTxKPdf5bFD8ZUe8TIT8eC9gkhjpukvCWEvHw6clM=);
  background-size:contain;
  background-position: right;
- background-repeat:
+ background-repeat: repeat;
 
     
     background-color: #efefef;
